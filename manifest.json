@@ -1,0 +1,10 @@
+{
+    "manifest_version": 1,
+    "id": "chat-translate",
+    "name": "Chat Translate",
+    "description": "Translates Zwift chat into your language right in the Sauce Chat window. Translated messages show a flag and language badge; click a message to switch between the translation and the original. Choose your language with the translate button in the Chat window's title bar.",
+    "version": "1.5.1",
+    "author": "Michael B - Thanks to ZDR, Dwgz, WoW, and WBR500",
+    "content_js": ["chat-translate.js"],
+    "content_css": ["chat-translate.css"]
+}
